@@ -40,6 +40,23 @@
   <script src="flutter.js" defer></script>
 </head>
 <body>
+  <style>
+    @media screen and (orientation: portrait) {
+      body {
+        width: 100vh;
+        height: 100vw;
+        transform: rotate(90deg);
+        transform-origin: top left;
+      }
+    }
+    
+    @media screen and (orientation: landscape) {
+      body {
+        width: 100vw;
+        height: 100vh;
+      }
+    }
+    </style>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
