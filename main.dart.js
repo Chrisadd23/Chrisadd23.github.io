@@ -80001,9 +80001,9 @@ nF(a){var s,r,q,p,o,n,m,l,k=$.a3().bK(),j=B.b.p(A.a([B.w,B.v,B.G],t.r),A.aq()),i
 if(!j)i=Math.max(500,i)
 j=this.b
 s=j*0.08
-r=i*0.89
+r=i*0.88
 q=j*0.033
-p=i*0.78
+p=i*0.77
 o=j*0.92
 n=j*0.967
 m=[new A.f(s,r),new A.f(q,p),new A.f(q,70),new A.f(s,35),new A.f(j*0.25,35),new A.f(j*0.3,60),new A.f(j*0.7,60),new A.f(j*0.75,35),new A.f(o,35),new A.f(n,70),new A.f(n,p),new A.f(o,r),new A.f(s,r)]
