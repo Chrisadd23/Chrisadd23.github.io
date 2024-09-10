@@ -80361,7 +80361,7 @@ E(a){var s=null,r=A.aZ("Please enter your message here:",s,s,s,this.d,s,s),q=A.d
 return A.b1(A.a([r,A.cq(s,new A.aJ(B.jm,A.au_(this.c,B.Ge,s,10,s),s),B.r,s,s,new A.bT(B.i,s,p,q,s,s,s,B.N),s,150,s,s,s,s,600)],t.p),B.l,B.B,B.n)}}
 A.Fe.prototype={
 E(a){var s=null
-return new A.aJ(B.Fa,A.aZ("Nice that you are at the contact Page. If you want to know more about me or my current developer experience write me an e-mail.",s,s,s,this.c,B.aA,s),s)}}
+return new A.aJ(B.Fa,A.aZ("Nice that you are at the contact Page. If you want to know more about me or my current developer experience, write me an e-mail.",s,s,s,this.c,B.aA,s),s)}}
 A.DB.prototype={
 E(a){var s=null
 return A.b1(A.a([A.aZ("Please enter your name or company name",s,s,s,this.d,s,s),A.x9(s,s,new A.ako(this),t.Lz,t.J2)],t.p),B.l,B.B,B.n)}}
