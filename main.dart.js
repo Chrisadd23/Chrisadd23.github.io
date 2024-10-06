@@ -83256,7 +83256,7 @@ return new A.aO(B.J2,A.il(A.a([A.Nj(!1,!0,A.aFP("assets/instagram.svg",45,45),s,
 A.atT.prototype={
 $0(){var s=0,r=A.Q(t.H),q
 var $async$$0=A.R(function(a,b){if(a===1)return A.N(b,r)
-while(true)switch(s){case 0:q=A.RO("https://www.instagram.com/cosmic._vibes_/")
+while(true)switch(s){case 0:q=A.RO("https://www.instagram.com/c_.m_.h/")
 s=q!=null?2:3
 break
 case 2:s=6
