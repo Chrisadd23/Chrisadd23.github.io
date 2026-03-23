@@ -13,7 +13,7 @@ const experiences = [
     role: "Softwareentwickler",
     period: "Nov 2024 – Mär 2025",
     description: "Entwicklung und Implementierung softwarebasierter Lösungen.",
-    tags: ["Angular", "C#", "DDEV"],
+    tags: ["Angular", "C#", "DDEV", "Flutter", "Laravel"],
   },
   {
     company: "MultaMedio",
