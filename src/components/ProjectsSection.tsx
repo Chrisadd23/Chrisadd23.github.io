@@ -44,13 +44,6 @@ const projects = [
     color: "hsl(140, 70%, 45%)",
   },
   {
-    name: "watchPrcWeb",
-    description: "Web-Applikation für Preisüberwachung und -vergleiche in Echtzeit.",
-    language: "JavaScript",
-    url: "https://github.com/Chrisadd23/watchPrcWeb",
-    color: "hsl(210, 85%, 55%)",
-  },
-  {
     name: "Timer Backend",
     description: "Backend-Service für Timer-Funktionalitäten mit REST-API.",
     language: "Java / Spring Boot",
