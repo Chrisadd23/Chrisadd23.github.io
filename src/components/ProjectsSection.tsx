@@ -5,7 +5,7 @@ const projects = [
     name: "Progamier Challenge",
     description: "Programmier-Challenge mit kreativen Algorithmen und innovativen Lösungsansätzen.",
     language: "JavaScript",
-    url: "https://github.com/Chrisadd23/Progamier_challenge_DeepCare",
+    url: "https://github.com/Chrisadd23/programming_challenge_deepCare",
     color: "hsl(50, 90%, 55%)",
   },
   {
