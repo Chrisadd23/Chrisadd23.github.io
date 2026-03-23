@@ -9,6 +9,15 @@ const interests = [
   { icon: Rocket, label: "Neue Technologien" },
 ];
 
+const getAge = () => {
+  const birth = new Date(1997, 2, 31); // 31. März 1997
+  const today = new Date();
+  let age = today.getFullYear() - birth.getFullYear();
+  const m = today.getMonth() - birth.getMonth();
+  if (m < 0 || (m === 0 && today.getDate() < birth.getDate())) age--;
+  return age;
+};
+
 const AboutSection = () => {
   return (
     <section id="about" className="py-24 px-6">
@@ -17,7 +26,7 @@ const AboutSection = () => {
           Über mich
         </h2>
         <p className="text-muted-foreground text-center mb-16 max-w-lg mx-auto">
-          28 Jahre · Begeistert von Technologie & Wissenschaft
+          {getAge()} Jahre · Begeistert von Technologie & Wissenschaft
         </p>
 
         {/* Interests */}
