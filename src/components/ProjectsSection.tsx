@@ -72,6 +72,48 @@ const projects = [
     color: "hsl(160, 80%, 45%)",
   },
 ];
+
+const ProjectsSection = () => {
+  return (
+    <section id="projects" className="py-24 px-6">
+      <div className="max-w-6xl mx-auto">
+        <h2 className="font-display text-3xl md:text-4xl font-bold mb-4 text-center">
+          Projekte
+        </h2>
+        <p className="text-muted-foreground text-center mb-16 max-w-lg mx-auto">
+          Ausgewählte Projekte von meinem GitHub-Profil
+        </p>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {projects.map((project) => (
+            <a
+              key={project.name}
+              href={project.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="group glass rounded-xl p-6 hover:border-primary/30 transition-all duration-300 hover:-translate-y-1"
+            >
+              <div className="flex items-start justify-between mb-4">
+                <div
+                  className="w-3 h-3 rounded-full mt-1"
+                  style={{ backgroundColor: project.color }}
+                />
+                <ExternalLink className="w-4 h-4 text-muted-foreground group-hover:text-foreground transition-colors" />
+              </div>
+
+              <h3 className="font-display font-semibold text-foreground mb-2 group-hover:text-primary transition-colors">
+                {project.name}
+              </h3>
+              <p className="text-muted-foreground text-sm mb-4 leading-relaxed">
+                {project.description}
+              </p>
+
+              <span className="text-xs font-medium text-secondary font-display">
+                {project.language}
+              </span>
+            </a>
+          ))}
+        </div>
       </div>
     </section>
   );
