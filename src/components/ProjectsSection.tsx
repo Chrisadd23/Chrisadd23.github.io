@@ -46,7 +46,7 @@ const projects = [
   {
     name: "Timer Backend",
     description: "Backend-Service für Timer-Funktionalitäten mit REST-API.",
-    language: "Java / Spring Boot",
+    language: "NestJS / TypeScript",
     url: "https://github.com/SoftwareDev-X/prc-timer-backend",
     color: "hsl(30, 90%, 55%)",
   },
