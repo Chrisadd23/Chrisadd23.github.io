@@ -11,7 +11,7 @@ const projects = [
   {
     name: "Flutter MealApp",
     description: "Rezepte-App mit Kategorien, Favoriten und Filteroptionen – gebaut mit Flutter.",
-    language: "Dart",
+    language: "Flutter / Dart",
     url: "https://github.com/Chrisadd23/Flutter_MealApp",
     color: "hsl(190, 95%, 50%)",
   },
