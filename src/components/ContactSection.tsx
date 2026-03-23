@@ -13,7 +13,7 @@ const ContactSection = () => {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="mailto:contact@christopherhaas.dev"
+            href="mailto:info@dev-haas.com"
             className="inline-flex items-center gap-2 px-8 py-3 rounded-lg bg-gradient-primary text-primary-foreground font-display font-semibold text-sm tracking-wide hover:opacity-90 transition-opacity shadow-glow"
           >
             <Mail className="w-4 h-4" />
