@@ -32,7 +32,7 @@ const ExperienceSection = () => {
           Berufserfahrung
         </h2>
         <p className="text-muted-foreground text-center mb-16 max-w-lg mx-auto">
-          Mein Werdegang als Werkstudent in der Softwareentwicklung
+          Mein Werdegang in der Softwareentwicklung
         </p>
 
         <div className="relative">
