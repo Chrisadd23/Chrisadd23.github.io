@@ -5,22 +5,22 @@ const experiences = [
     company: "Mercator-Leasing",
     role: "Softwareentwickler",
     period: "Jun 2025 – Nov 2025",
-    description: "Backend- und Fullstack-Entwicklung mit modernen Technologien.",
-    tags: ["Spring Boot", "Node.js", "TypeScript"],
+    description: "Entwicklung und Implementierung softwarebasierter Lösungen.",
+    tags: ["Java", "Spring Boot", "Apache Camel", "Angular"],
   },
   {
     company: "Cheftresor · Solutio AG",
     role: "Softwareentwickler",
     period: "Nov 2024 – Mär 2025",
-    description: "Entwicklung von sicheren Softwarelösungen für Finanzdienstleister.",
-    tags: ["Flutter", "Firebase", "Dart"],
+    description: "Entwicklung und Implementierung softwarebasierter Lösungen.",
+    tags: ["Angular", "C#", "DDEV"],
   },
   {
     company: "MultaMedio",
     role: "Softwareentwickler",
     period: "Aug 2022 – Okt 2024",
-    description: "Mobile- und Web-Entwicklung in einem agilen Team. Apps mit Flutter und Firebase umgesetzt.",
-    tags: ["Flutter", "Firebase", "Node.js", "Spring Boot"],
+    description: "Entwicklung und Implementierung softwarebasierter Lösungen mittels Flutter. Datenverwaltung mit Oracle, Firestore und Firebase.",
+    tags: ["Flutter", "Firebase", "Firestore", "Oracle", "Figma", "GitLab", "Jira"],
   },
 ];
 
