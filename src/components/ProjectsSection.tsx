@@ -18,7 +18,7 @@ const projects = [
   {
     name: "Flutter Cube",
     description: "Interaktiver 3D-Cube gebaut mit Flutter und C++ für performante Grafik-Rendering.",
-    language: "C++ / Flutter",
+    language: "Flutter / Dart",
     url: "https://github.com/Chrisadd23/flutter_cube",
     color: "hsl(262, 83%, 58%)",
   },
