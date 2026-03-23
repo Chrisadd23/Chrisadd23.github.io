@@ -40,7 +40,7 @@ const projects = [
     name: "ProfilePage Version 1",
     description: "Persönliche Online-Profilseite mit modernem Design und responsivem Layout.",
     language: "JavaScript",
-    url: "https://github.com/Chrisadd23/Chrisadd23.github.io",
+    url: "https://github.com/Chrisadd23/online_profile",
     color: "hsl(140, 70%, 45%)",
   },
   {
