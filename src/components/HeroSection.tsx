@@ -1,4 +1,5 @@
 import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
+import bewerbungsfoto from "@/assets/Bewerbungsfoto.png";
 
 const HeroSection = () => {
   return (
