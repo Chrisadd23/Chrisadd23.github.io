@@ -1,11 +1,11 @@
 const skillCategories = [
   {
-    title: "Mobile",
-    skills: ["Flutter", "Dart", "Android", "iOS"],
+    title: "Mobile / Frontend",
+    skills: ["Flutter", "Dart"],
   },
   {
     title: "Backend",
-    skills: ["Spring Boot", "Node.js", "Java", "TypeScript"],
+    skills: ["Spring Boot", "Node.js", "Java"],
   },
   {
     title: "Cloud & DB",
