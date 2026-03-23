@@ -25,7 +25,7 @@ const projects = [
   {
     name: "Buy Epic",
     description: "Flutter-App zum Bestellen von Produkten mit modernem UI und Bestelllogik.",
-    language: "Dart",
+    language: "Flutter / Dart",
     url: "https://github.com/Chrisadd23/dy-epick",
     color: "hsl(330, 85%, 60%)",
   },
