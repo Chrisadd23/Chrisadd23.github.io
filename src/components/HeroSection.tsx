@@ -57,7 +57,7 @@ const HeroSection = () => {
           <a href="https://github.com/Chrisadd23" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-foreground transition-colors">
             <Github className="w-5 h-5" />
           </a>
-          <a <a href="mailto:info@dev-haas.com" className="text-muted-foreground hover:text-foreground transition-colors"> className="text-muted-foreground hover:text-foreground transition-colors">
+          <a href="mailto:info@dev-haas.com" className="text-muted-foreground hover:text-foreground transition-colors"> className="text-muted-foreground hover:text-foreground transition-colors"> className="text-muted-foreground hover:text-foreground transition-colors">
             <Mail className="w-5 h-5" />
           </a>
         </div>
