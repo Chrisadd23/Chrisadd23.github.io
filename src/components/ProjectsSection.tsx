@@ -4,14 +4,14 @@ const projects = [
   {
     name: "Progamier Challenge",
     description: "Programmier-Challenge mit kreativen Algorithmen und innovativen Lösungsansätzen.",
-    language: "JavaScript",
+    language: "Flutter / Dart",
     url: "https://github.com/Chrisadd23/programming_challenge_deepCare",
     color: "hsl(50, 90%, 55%)",
   },
   {
     name: "Flutter MealApp",
     description: "Rezepte-App mit Kategorien, Favoriten und Filteroptionen – gebaut mit Flutter.",
-    language: "Dart",
+    language: "Flutter / Dart",
     url: "https://github.com/Chrisadd23/Flutter_MealApp",
     color: "hsl(190, 95%, 50%)",
   },
@@ -25,7 +25,7 @@ const projects = [
   {
     name: "Buy Epic",
     description: "Flutter-App zum Bestellen von Produkten mit modernem UI und Bestelllogik.",
-    language: "Dart",
+    language: "Flutter / Dart",
     url: "https://github.com/Chrisadd23/dy-epick",
     color: "hsl(330, 85%, 60%)",
   },
