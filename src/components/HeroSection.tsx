@@ -19,7 +19,7 @@ const HeroSection = () => {
             <img
               src={bewerbungsfoto}
               alt="Christopher Michael Haas"
-              className="relative w-40 h-40 rounded-full object-cover object-[30%_75%] border-2 border-muted"
+              className="relative w-40 h-40 rounded-full object-cover object-center border-2 border-muted"
             />
           </div>
         </div>
