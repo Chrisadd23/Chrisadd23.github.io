@@ -37,8 +37,8 @@ const projects = [
     color: "hsl(10, 80%, 55%)",
   },
   {
-    name: "Portfolio Website",
-    description: "Persönliche Portfolio-Website mit GitHub Pages und modernem Frontend.",
+    name: "ProfilePage Version 1",
+    description: "Persönliche Online-Profilseite mit modernem Design und responsivem Layout.",
     language: "JavaScript",
     url: "https://github.com/Chrisadd23/Chrisadd23.github.io",
     color: "hsl(140, 70%, 45%)",
