@@ -58,7 +58,7 @@ const projects = [
     color: "hsl(280, 75%, 55%)",
   },
   {
-    name: "dy-epic-backend",
+    name: "Sell Epic Backend",
     description: "Backend-System mit dynamischer API-Architektur und modernem Tech-Stack.",
     language: "Node.js",
     url: "https://github.com/Chrisadd23/dy-epic-backend",
