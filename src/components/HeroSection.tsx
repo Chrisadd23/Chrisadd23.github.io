@@ -1,4 +1,5 @@
 import { Github, Linkedin, Mail, ChevronDown } from "lucide-react";
+import bewerbungsfoto from "@/assets/Bewerbungsfoto.png";
 
 const HeroSection = () => {
   return (
@@ -16,7 +17,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="absolute -inset-1 bg-gradient-hero rounded-full blur-md opacity-60" />
             <img
-              src="https://avatars.githubusercontent.com/u/74181009?v=4"
+              src={bewerbungsfoto}
               alt="Christopher Michael Haas"
               className="relative w-28 h-28 rounded-full object-cover border-2 border-muted"
             />
