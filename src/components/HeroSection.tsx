@@ -25,7 +25,7 @@ const HeroSection = () => {
         </div>
 
         <p className="text-secondary font-display font-medium text-sm tracking-[0.3em] uppercase mb-4">
-          Software Developer · Werkstudent
+          Software Developer · Student Ingenieurinformatik
         </p>
 
         <h1 className="font-display text-5xl md:text-7xl font-bold mb-6 leading-tight">
