@@ -50,7 +50,7 @@ const ExperienceSection = () => {
             {experiences.map((exp, i) => (
               <div key={i} className="relative pl-16 md:pl-20">
                 {/* Timeline dot */}
-                <div className="absolute left-4 md:left-6 top-1 w-4 h-4 rounded-full bg-gradient-primary shadow-glow" />
+                <div className="absolute left-4 md:left-6 top-0 w-4 h-4 rounded-full bg-gradient-primary shadow-glow" />
 
                 <div className="glass rounded-xl p-6 hover:border-primary/30 transition-colors">
                   <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-2">
