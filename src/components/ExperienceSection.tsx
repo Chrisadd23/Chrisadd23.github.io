@@ -2,6 +2,13 @@ import { Briefcase } from "lucide-react";
 
 const experiences = [
   {
+    company: "Fraunhofer IPK",
+    role: "Werkstudent mit Fokus auf Softwareentwicklung",
+    period: "Jul 2026 – heute",
+    description: "Design und Entwicklung eines Konfigurators",
+    tags: ["React", "Spring Boot"],
+  },
+  {
     company: "Mercator-Leasing",
     role: "Softwareentwickler",
     period: "Jun 2025 – Nov 2025",
